@@ -1,0 +1,80 @@
+.emodji{
+ width: 160px;
+ height: 160px;
+ display: block;
+ position: relative;
+ background: url('../img/3.png');
+ animation: cadr 1s steps(1)  infinite;
+}
+@keyframes cadr {
+  0%{background-position: 0px 0px;}
+  15%{background-position: -160px 0px;}
+  30%{background-position: -320px 0px;}
+  45%{background-position: -480px 0px;}
+  75%{background-position: -640px 0px;}
+  100%{background-position: -960px 0px;}
+}
+.emodji1{
+ width: 160px;
+ height: 160px;
+ display: block;
+ position: relative;
+ background: url('../img/4.png');
+ animation: cadr1 1s steps(1)  infinite;
+}
+@keyframes cadr1 {
+  0%{background-position: 0px 0px;}
+  15%{background-position: -160px 0px;}
+  30%{background-position: -320px 0px;}
+  45%{background-position: -480px 0px;}
+  75%{background-position: -640px 0px;}
+  100%{background-position: -960px 0px;}
+}
+.emodji2{
+ width: 160px;
+ height: 160px;
+ display: block;
+ position: relative;
+ background: url('../img/5.png');
+ animation: cadr2 1s steps(1)  infinite;
+}
+@keyframes cadr2 {
+  0%{background-position: 0px 0px;}
+  15%{background-position: -160px 0px;}
+  30%{background-position: -320px 0px;}
+  45%{background-position: -480px 0px;}
+  75%{background-position: -640px 0px;}
+  100%{background-position: -960px 0px;}
+}
+.emodji3{
+ width: 160px;
+ height: 160px;
+ display: block;
+ position: relative;
+ background: url('../img/6.png');
+ animation: cadr3 1s steps(1)  infinite;
+}
+@keyframes cadr3 {
+  0%{background-position: 0px 0px;}
+  15%{background-position: -160px 0px;}
+  30%{background-position: -320px 0px;}
+  45%{background-position: -480px 0px;}
+  75%{background-position: -640px 0px;}
+  100%{background-position: -960px 0px;}
+}
+.emodji4{
+ width: 160px;
+ height: 160px;
+ display: block;
+ position: relative;
+ background: url('../img/7.png');
+ animation: cadr4 1s steps(1)  infinite;
+}
+@keyframes cadr4 {
+  0%{background-position: 0px 0px;}
+  15%{background-position: -160px 0px;}
+  30%{background-position: -320px 0px;}
+  45%{background-position: -480px 0px;}
+  75%{background-position: -640px 0px;}
+  100%{background-position: -960px 0px;}
+}
